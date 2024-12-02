@@ -9,6 +9,8 @@ tabulate = "*"
 ipykernel = "*"
 import-ipynb = "*"
 autopep8 = "*"
+python-dotenv = "*"
+meilisearch = "*"
 
 [dev-packages]
 
